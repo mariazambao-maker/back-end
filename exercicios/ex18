@@ -1,0 +1,4 @@
+catop=float(input('cateto opost: '))
+catad=float(input('cateto adjacente: '))
+hi=hypot(catop,catad)
+print("a hipotenusa vai medir {}".format(hi))
