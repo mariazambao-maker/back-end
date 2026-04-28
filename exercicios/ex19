@@ -1,0 +1,8 @@
+import math
+ang= float (input('digite o anguo que vc deseje'))
+seno =math.sin (math.radians(ang))
+cose = math.cos (math.radians(ang))
+tang = math.tan (math.radians(ang))
+print ("o angulo de {} tem seno de {:.2f}".format(ang,seno))
+print ("o angulo de {} tem seno de {:.2f}".format(ang,cose))
+print ("o angulo de {} tem seno de {:.2f}".format(ang,tang))
