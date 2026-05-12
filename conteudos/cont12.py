@@ -12,10 +12,4 @@ Em python para o se utilizamos if+confição+:, já o senão utilizamos o else +
 Nesse tipo de condicional apenas um bloco é executado.
 11 de mai. de 2026 às 10:45.png
 
-Condições (exemplo)
-tempo = int(input("Quantos anos tem seu carro?"))
-If tempo<=3:
-print('carro novo')
-else =
-print("carro velho")
-print("--fim--")
+           
