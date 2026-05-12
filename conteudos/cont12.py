@@ -12,4 +12,28 @@ Em python para o se utilizamos if+confição+:, já o senão utilizamos o else +
 Nesse tipo de condicional apenas um bloco é executado.
 11 de mai. de 2026 às 10:45.png
 
-           
+Condições (exemplo)
+tempo = int(input("Quantos anos tem seu carro?"))
+If tempo<=3:
+print('carro novo')
+else:
+print('carro velho)
+Print('--fim--')
+
+      exemplo
+home = str(input('Qual é o seu nome?
+if nome == Gustavo':
+print('Que nome lindo você tem!')
+else:
+print('seu nome é tão normal')
+print('Bom dia {}'.format(nome))
+
+                 Condições simplicada (exemplo)
+n1 float(input("Digite a primeira nota: "))
+n2 float(input("Digite a segunda nota: "))
+m (n1 + n2)/2
+print("A sua média foi (:.1f)".format(m))
+if m >= 6.0: print("A sua média foi boal Parabéns")
+else:
+print("Sua média foi ruim! Estude mais")
+print("Parabéns" if m >= 6 else "Estude mais")
